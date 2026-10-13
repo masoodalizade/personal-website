@@ -1,7 +1,7 @@
 'use strict';
 const REPO='masoodalizade/personal-website',API='https://api.github.com/repos/'+REPO+'/contents/data/';
 let token='',section='events',data={events:[],notes:[]},shas={},selected=-1,readonly=false,dirty=false;
-const el=id=>document.getElementById(id),escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;':'&quot;',"'":'&#39;'}[c]));
+const el=id=>document.getElementById(id),escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const setStatus=(msg,bad=false)=>{el('status').textContent=msg;el('status').style.color=bad?'#a33':'#666'};
 async function request(path,opts={}){const headers={'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28',...(token?{'Authorization':'Bearer '+token}:{})};if(opts.body)headers['Content-Type']='application/json';const r=await fetch(API+path,{...opts,headers});if(!r.ok){const e=await r.json().catch(()=>({}));throw Error(e.message||'خطای GitHub: '+r.status)}return r.json()}
 function decodeBase64(s){const binary=atob(s.replace(/\s/g,''));const bytes=Uint8Array.from(binary,c=>c.charCodeAt(0));return new TextDecoder().decode(bytes)}
