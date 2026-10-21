@@ -4,132 +4,246 @@
     "order": 5,
     "title": "ساختن مسیر مستقل",
     "description": "تمرکز بر مشاوره کسب‌وکارهای کوچک و متوسط، آموزش و تولید محتوا؛ تلاشی برای پیوند تجربه مدیریتی با یادگیری و پژوهش.",
-    "published": true
+    "published": true,
+    "id": "e001",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1405,
     "order": 4,
     "title": "دفاع از پایان‌نامه کارشناسی ارشد",
     "description": "پژوهشی در دانشگاه تهران درباره تأثیر ارزش‌های فردی نسل Z بر نگرش و قصد کارآفرینی پایدار.",
-    "published": true
+    "published": true,
+    "id": "e002",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1405,
     "order": 3,
     "title": "همکاری با کارنکن",
     "description": "فعالیت در پروژه‌های آموزشی و فروش و گفت‌وگو درباره مسیر شغلی، تصمیم‌گیری و تجربه‌های واقعی کار.",
-    "published": true
+    "published": true,
+    "id": "e003",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1405,
     "order": 2,
     "title": "شیدرلیپ",
     "description": "روایت آموخته‌ها و پرسش‌ها درباره رهبری، رفتار سازمانی، عقلانیت و عملگرایی در قالب پادکست و محتوا.",
-    "published": true
+    "published": true,
+    "id": "e004",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1403,
     "order": 1,
     "title": "مدیرعاملی موبایل‌آباد",
     "description": "ورود به مرحله‌ای تازه از مسئولیت؛ تجربه اداره یک کسب‌وکار و مواجهه نزدیک با تصمیم‌های دشوار مدیریتی.",
-    "published": true
+    "published": true,
+    "id": "e005",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1370,
     "order": 1,
     "title": "تولد در مشهد",
     "description": "آغاز داستان من در مشهد.",
-    "published": true
+    "published": true,
+    "id": "e006",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1402,
     "order": 4,
     "title": "تأسیس آکادمی تاچ",
     "description": "تجربه راه‌اندازی یک کسب‌وکار آموزشی؛ از ساخت تیم و محصول تا جذب مشتری و رسیدن به نقطه سربه‌سر.",
-    "published": true
+    "published": true,
+    "id": "e007",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1402,
     "order": 3,
     "title": "هم‌بنیان‌گذاری ۳۰کانسپت",
     "description": "مشارکت در ساخت پروژه‌ای برای گفت‌وگو و انتقال ایده‌های تازه از آدم‌های الهام‌بخش.",
-    "published": true
+    "published": true,
+    "id": "e008",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1402,
     "order": 2,
     "title": "توسعه کسب‌وکار در ایستگاه نوآوری شریف",
     "description": "فعالیت در توسعه مجموعه‌هایی در حوزه خدمات، بازرگانی و آموزش؛ فرصتی برای تجربه ساختارهای بزرگ‌تر.",
-    "published": true
+    "published": true,
+    "id": "e009",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1401,
     "order": 2,
     "title": "گسترش مسئولیت در موبایل‌آباد",
     "description": "در نقش معاون مدیرعامل، با مسائل استراتژیک، توسعه تیم‌ها و تصمیم‌های دشوار رشد کسب‌وکار درگیر شدم.",
-    "published": true
+    "published": true,
+    "id": "e010",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1400,
     "order": 2,
     "title": "ورود به مدیریت عملیات",
     "description": "از مدیریت یک بخش به هماهنگ‌کردن تیم‌ها و فرایندهای مختلف رسیدم؛ تجربه‌ای جدی در مدیریت سازمان.",
-    "published": true
+    "published": true,
+    "id": "e011",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1399,
     "order": 2,
     "title": "مدیریت شبکه نمایندگان در بحران کرونا",
     "description": "در دوره‌ای پرابهام، مسئولیت نظم‌دادن به شبکه نمایندگان و بهبود کیفیت خدمات را برعهده گرفتم.",
-    "published": true
+    "published": true,
+    "id": "e012",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1396,
     "order": 3,
     "title": "راه‌اندازی موبایل‌آباد مشهد",
     "description": "از کار فنی به اداره یک واحد خدماتی و ساختن ارتباط با مشتریان و تیم رسیدم.",
-    "published": true
+    "published": true,
+    "id": "e013",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1396,
     "order": 2,
     "title": "هم‌بنیان‌گذاری فراموج",
     "description": "مشارکت در توسعه یک مرکز آموزش مهارت؛ تجربه طراحی دوره، بازاریابی و اداره یک مجموعه آموزشی.",
-    "published": true
+    "published": true,
+    "id": "e014",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1395,
     "order": 2,
     "title": "شروع دوباره با کارآموزی تعمیرات موبایل",
     "description": "برای یادگیری مهارتی تازه، از کارآموزی خدمات پس از فروش سامسونگ شروع کردم و بعد وارد تیم فنی شدم.",
-    "published": true
+    "published": true,
+    "id": "e015",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1394,
     "order": 2,
     "title": "تجربه بازاریابی در پالوما",
     "description": "برای مدتی در تیم بازاریابی یک برند لبنی کار کردم و با فضای متفاوتی از کسب‌وکار آشنا شدم.",
-    "published": true
+    "published": true,
+    "id": "e016",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1390,
     "order": 2,
     "title": "فروشگاه کامپیوتر دلفین",
     "description": "مشارکت در اداره فروشگاه لوازم کامپیوتر؛ تجربه فروش، مدیریت مالی، کار با تیم و خدمات مشتریان.",
-    "published": true
+    "published": true,
+    "id": "e017",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1389,
     "order": 2,
     "title": "راه‌اندازی ره‌آفرین",
     "description": "تلاش برای ساخت کسب‌وکاری آموزشی با تمرکز بر مهارت‌های نرم برای دانش‌آموزان؛ یکی از تجربه‌های اولیه کارآفرینی من.",
-    "published": true
+    "published": true,
+    "id": "e018",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   },
   {
     "year": 1388,
     "order": 2,
     "title": "تحصیل در مهندسی شیمی",
     "description": "ورود به مسیر دانشگاهی مهندسی شیمی؛ مسیری که بعدها جای خود را به علاقه جدی‌ترم به مدیریت و کسب‌وکار داد.",
-    "published": true
+    "published": true,
+    "id": "e019",
+    "body": "",
+    "image": "",
+    "imageAlt": "",
+    "media": [],
+    "evidence": []
   }
 ]
